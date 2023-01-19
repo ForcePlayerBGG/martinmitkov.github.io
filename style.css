@@ -1,0 +1,89 @@
+body{
+   background-image: url(bck1.jpg);
+   
+     
+}
+.title{
+    font-family: Tahoma, Verdana, sans-serif;
+    font-style: italic;
+    color: azure;
+    position: relative;
+    text-align: center;
+    text-shadow: 2px 0 black;
+    
+}
+a:link {
+  text-decoration: none;
+  
+}
+
+
+h2{
+    font-family: Tahoma, Verdana, sans-serif;
+    font-style: italic;
+}
+h4{
+    font-family: Tahoma, Verdana, sans-serif;
+    font-style: italic;
+}
+h3{
+    font-family: Tahoma, Verdana, sans-serif;
+    font-style: italic;
+}
+.textaboutme{
+    
+    color: rgb(182, 174, 174);
+    text-shadow: 2px 0 black;
+    
+}
+.aboutme{
+    color: white;
+    text-shadow: 2px 0 black;
+}
+.projects{
+    color: white;
+    text-shadow: 2px 0 black;
+}
+.textprojects{
+    text-shadow: 2px 0px black;
+    color: rgb(182, 174, 174);
+}
+.socials{
+    color: white;
+    text-shadow: 2px 0 black;
+}
+.github{
+    
+    text-shadow: 2px 0px black;
+    color: rgb(182, 174, 174);
+    font-family: Tahoma, Verdana, sans-serif;
+    font-style: italic;
+    
+}
+.instagram{
+    
+    text-shadow: 2px 0px black;
+    color: rgb(182, 174, 174);
+    font-family: Tahoma, Verdana, sans-serif;
+    font-style: italic;
+    
+}
+.container{
+    left: 440px;
+    top: 100px;
+    position: relative; 
+    width: 1000px; 
+    height: 600px;
+    background-color: black;
+}
+      .frame{
+        
+        position: relative; 
+        border: 4px solid white;
+        background-color: black;
+        height: 600px;
+    }
+      .content{
+        padding: 12px;
+        
+    }
