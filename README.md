@@ -1,3 +1,4 @@
-Welcome to my first repository!
+Welcome to my website!
 
-I am Martin and I like writing code and test some stuff.
+In this website you can find more information about me.
+Also you can find my socials.
