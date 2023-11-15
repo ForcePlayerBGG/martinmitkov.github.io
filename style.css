@@ -68,6 +68,22 @@ h3{
     font-style: italic;
     
 }
+.email{
+    
+    text-shadow: 2px 0px black;
+    color: rgb(182, 174, 174);
+    font-family: Tahoma, Verdana, sans-serif;
+    font-style: italic;
+    
+}
+.linkedin{
+    
+    text-shadow: 2px 0px black;
+    color: rgb(182, 174, 174);
+    font-family: Tahoma, Verdana, sans-serif;
+    font-style: italic;
+    
+}
 .container{
     left: 440px;
     top: 100px;
